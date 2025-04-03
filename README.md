@@ -45,4 +45,5 @@ scripts/
 ├── export_to_csv.py        # Exports data to CSV for Power BI
 
 data/
+├── Reviews.csv             # Review Dataset
 └── clean_reviews.csv       # Cleaned review dataset

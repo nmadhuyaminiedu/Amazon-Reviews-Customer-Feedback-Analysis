@@ -12,7 +12,7 @@ This project automates the process of:
 - Extracting insights via TF-IDF vectorization
 - Visualizing results in Power BI
 
-🔍 The final dashboard helps explore:
+🔍 The final dashboard helps explore: https://1drv.ms/u/c/d005b96574f11a70/EQluVWJ38KdBqu98ew5bEYEBCeO-eLmhQ1Dcax69lWX38w?e=0MfGer 
 - Sentiment distribution
 - Common keywords by sentiment
 - Review count by rating
